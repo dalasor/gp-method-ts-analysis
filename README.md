@@ -32,7 +32,7 @@ $$
  \dot{x}=\sigma(y-x) \\
  \dot{y}=x(r-z)-y \\
  \dot{z}=x y-b z
-\end{array}
+\end{cases}
 $$
 
 
