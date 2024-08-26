@@ -7,8 +7,6 @@
 
 Алгоритм Грассбергера-Прокаччиа является простым и эффективным для оценки корреляционной размерности в нелинейной динамике. Он состоит в следующем. 
 
-$$ C(r)=\sum_{i=1}^N p_i^2=\lim _{N \rightarrow \infty} \frac{1}{N(N-1)} \cdot \sum_{i, j=1}^N $$
-
-$$ \theta\left(r-\left\|X_i-X_j\right\|\right) $$
-
-$$ \equiv C_M(r) $$
+$$
+C(r)=\sum_{i=1}^N p_i^2=\lim _{N \rightarrow \infty} \frac{1}{N(N-1)} \cdot \sum_{i, j=1}^N \theta\left(r-\left\|X_i-X_j\right\|\right) \equiv C_M(r)
+$$
