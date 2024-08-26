@@ -28,7 +28,7 @@ $$
 ## Аттрактор Лоренца
 
 $$
-\begin{array}{c}
+\begin{cases}
  \dot{x}=\sigma(y-x) \\
  \dot{y}=x(r-z)-y \\
  \dot{z}=x y-b z
