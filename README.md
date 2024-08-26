@@ -6,7 +6,8 @@
 
 KNLNOIHOnvk jioejoe nfjn enf neofn ne
 
-```plot
+```
+plot
 xAxis:{domain:[-10,10]},
 yAxis:{domain:[-5,5]},
 grid:true,
@@ -14,14 +15,5 @@ data: [
 {fn:'sin(x)',color:'darkred'},
 {fn:'x^2/5'}
 ]
-```
-```width:400px;height:300px|plot
-yAxis: {domain: [-1.897959183, 1.897959183]},
-  xAxis: {domain: [-3, 3]},
-  data: [{
-    r: '2 * sin(4 theta)',
-    fnType: 'polar',
-    graphType: 'polyline'
-  }]
 ```
 
